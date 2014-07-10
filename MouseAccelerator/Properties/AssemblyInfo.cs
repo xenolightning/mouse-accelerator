@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MouseAccelerator")]
+[assembly: AssemblyTitle("Mouse Accelerator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MouseAccelerator")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("xenolightning")]
+[assembly: AssemblyProduct("Mouse Accelerator")]
+[assembly: AssemblyCopyright("Copyright © xenolightning 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
